@@ -1,0 +1,37 @@
+{
+ "f1": 0.0,
+ "precision": 0.0,
+ "recall": 0.0,
+ "delay": NaN,
+ "fa_per_10k": 0.0,
+ "policy_fa_per_10k": 0.0,
+ "ari": 0.0,
+ "n_alarms": 0,
+ "us_per_step": 95.34029274425292,
+ "detections": [],
+ "h": 16,
+ "method": "ONNC",
+ "env": "cartpole",
+ "seed": 1000,
+ "change_points": [
+  1455,
+  3271,
+  5223,
+  6874,
+  9167,
+  11358,
+  12617
+ ],
+ "policy_switches": [
+  1244,
+  2533,
+  2752,
+  4402,
+  6527,
+  6613,
+  9429,
+  12194,
+  12699
+ ],
+ "T": 13920
+}
